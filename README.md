@@ -1,5 +1,5 @@
 # Despliegue
-##INDICE
+## INDICE
 * Actividades clase
     * Actividad 03-10-2022
     * Actividad 03-10-2022- JAVIER VILLARREAL
