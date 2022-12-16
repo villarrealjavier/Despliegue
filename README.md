@@ -1,12 +1,12 @@
 # Despliegue
 ## INDICE
 * Actividades clase
-    * Actividad 03-10-2022
-    * Actividad 03-10-2022- JAVIER VILLARREAL
-    * Actividad 11-10-2022
-    * Actividad 11-10-2022
-    * EJERCICIO DESPLIEGUE
-    * EJERCICIO DESPLIEGUE.pdf
+    * Actividad 03-10-2022 -> Volumenes y Bind Mount
+    * Actividad 03-10-2022- JAVIER VILLARREAL -> Volumenes y Bind Mount
+    * Actividad 11-10-2022 -> Docker Compose
+    * Actividad 11-10-2022 -> Docker Compose
+    * EJERCICIO DESPLIEGUE -> Cuestiones Contenedores
+    * EJERCICIO DESPLIEGUE.pdf -> Cuestiones Contenedores
 * Chuleta comandos
     * CHULETA DE COMANDOS DOCKER
 * Despleguar un contenedor Web
